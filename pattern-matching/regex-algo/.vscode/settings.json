@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "regex.h": "c",
+        "time.h": "c"
+    }
+}
